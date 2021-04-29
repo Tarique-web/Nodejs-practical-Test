@@ -1,0 +1,22 @@
+{
+  "name": "Nodejs-Test",
+  "version": "1.0.0",
+  "description": "\"crud methed for practice\"",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "author": "Tarique",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "knex": "^0.95.4",
+    "knex-migrate": "^1.7.4",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7"
+  },
+  "devDependencies": {}
+}
